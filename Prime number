@@ -1,5 +1,5 @@
 Prime(p) = input
-Number(n)  input
+Number(n) = input
 P = > 1
 P != < 0 
 N != 0
