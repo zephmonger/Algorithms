@@ -1,0 +1,23 @@
+Prime(p)
+Number(n) = 1
+Divisor = 2
+Remainder(r)
+If (n = 100)
+  then (stop)
+
+If (n = < 2)
+  Then print "not prime", n+=1, proccess again
+  
+If (n = 2)
+  Then print "prime", n +=1, process again
+
+If (n = > 2)
+  Then (r = n % d)
+   If (r= 0 )
+   Then print not prime, n +=1, d =2, process again
+
+Else  
+    d +=1
+    if (n = d)
+      Print "prime number", n+=1, d=2, process again
+      
