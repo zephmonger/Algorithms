@@ -1,10 +1,11 @@
 Prime(p) = input
 Number(n)  input
-P = >1
+P = > 1
+P != < 0 
 N != 0
 
-If (n % =>1)
+If (n % = > 1)
  Then (p = pass)
  
-Else (n % =<1)
+Else (n % = < 1)
   Then ( p = fail)
