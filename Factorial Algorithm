@@ -1,0 +1,10 @@
+Number(n) = input
+Result(r)
+If (n = 0) 
+  then n +=1 
+
+while (n > 0)
+    r = n * n
+    n -= 1
+    r * n
+    Repeat process
