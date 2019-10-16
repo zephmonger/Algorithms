@@ -1,0 +1,10 @@
+Prime(p) = input
+Number(n)  input
+P = >1
+N != 0
+
+If (n % =>1)
+ Then (p = pass)
+ 
+Else (n % =<1)
+  Then ( p = fail)
