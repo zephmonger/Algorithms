@@ -1,0 +1,4 @@
+sum = 0
+Result(r)
+
+For(let r=0;s=5;r++1){s = s + r; print result}
