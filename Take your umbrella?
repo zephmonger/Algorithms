@@ -7,3 +7,22 @@ if(rain=true)
   {take umprella}
   
 Else {don't take umbrella}
+
+
+Javascript:     =Assign     ==compare         "string     || or
+var rain=0;
+
+if(rain==1){
+    console.log("take umbrella");
+    
+} else {console.log("don't take the umbrella");}
+
+
+
+var rain=0;
+var Vancouver=1
+
+if(rain==1||Vancouver==1){
+    console.log("take the umbrella");
+    
+} else {console.log("don't take the umbrella");}
