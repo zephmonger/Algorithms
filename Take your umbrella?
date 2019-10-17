@@ -1,0 +1,9 @@
+Algorithm to take your umprella
+Delcare:
+Var rain;
+
+Process:
+if(rain=true)
+  {take umprella}
+  
+Else {don't take umbrella}
