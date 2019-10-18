@@ -1,5 +1,5 @@
 Pound(p) = input
-Kilogram(k)= input
+Kilogram(k)
 
   k = p / 2.205
   
