@@ -1,7 +1,7 @@
-var a=100
-var b=80
-var c=60
-average = 0
+var a= input (100)        Var (a,b, c) think of them as assignments and not set grades!!
+var b= input (80)
+var c= input (60)
+average
 status
 
 average = (a+b+c)/3
