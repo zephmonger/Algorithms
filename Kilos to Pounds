@@ -1,4 +1,4 @@
 Kilogram(k)= input
-Pound(p) = input
+Pound(p)
 
   p = k * 2.205
