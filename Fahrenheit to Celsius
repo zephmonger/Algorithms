@@ -1,5 +1,8 @@
 Fahrenheit(f)= input
-Celsius(c) = input
+Celsius(c)
  
-  c = [(f-32)5]/9
+  c = ((f-32)5)/9
   
+    OR
+  
+  c = (f-32)0.5556
