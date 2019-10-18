@@ -1,0 +1,5 @@
+Celsius(c) = input
+Fahrenheit(f)= input
+ 
+f=(c * 1.8) + 32
+  
