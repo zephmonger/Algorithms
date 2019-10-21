@@ -1,0 +1,12 @@
+//input           \\Algorith to add two arbitrary #
+var sum = 0 
+var A= input
+var B= iput
+
+//process
+if  A <=B
+  add A by 1
+  add A to sum
+  
+//output
+print sum
