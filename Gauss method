@@ -1,0 +1,13 @@
+//input
+var sum = 0
+var i = 1
+var n = 100
+
+//process
+sum = (n*(n+i))/2
+
+//output
+print sum
+
+//error check: 
+(100*(100+1))/2 = 5050
