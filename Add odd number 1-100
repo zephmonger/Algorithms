@@ -4,7 +4,7 @@ var i = 1
 
 //process 
 if i < 100
-  add 1 by 2
+  add i by 2
   add i to sum
   
 //output
