@@ -1,5 +1,5 @@
  //input        // = user comment
-var sum = 0         //Algorith to add
+var sum = 0         //Algorith to add odd #
 var i = 1
 
 //process 
