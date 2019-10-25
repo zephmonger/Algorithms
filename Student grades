@@ -1,6 +1,6 @@
-var a= input (100)        Var (a,b, c) think of them as assignments and not set grades!!
+var a= input (90)        Var (a,b, c) think of them as assignments and not set grades!!
 var b= input (80)
-var c= input (60)
+var c= input (73)
 average
 status
 
